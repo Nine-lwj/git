@@ -15,6 +15,10 @@
 6.git commit -m '描述信息'  	生成版本
 
 7.git log 查看存储的不同版本的版本号
+   git reflog 查看回滚过程的版本号
 
 8.git reset --hard 版本号1953bec6089aa34c0d95c68cf6f6a01c8044de23
    版本回滚
+
+9.git checkout 红色文件（工作区） -->原始状态
+   git reset HEAD 绿色文件（暂存区）-->红色文件（工作区）
