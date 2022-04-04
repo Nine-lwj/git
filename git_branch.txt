@@ -1,3 +1,5 @@
 git branch 查看分支
 git branch 分支名 新建分支
-gir checkout 分支名 跳转到分支
+git checkout 分支名 跳转到分支
+git merge 分支名 分支合并
+git branch -d 分支名 删除分支
