@@ -1,6 +1,6 @@
 1.git remote add origin https://github.com/Nine-lwj/git.git
    设置网址别名
 2.git push -u origin master
-   推送至远端
-3.git clone 地址 
+   分支推送至远端仓库
+3.git clone 远程仓库地址 
    远端拉取代码
