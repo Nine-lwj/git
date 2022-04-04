@@ -1,0 +1,17 @@
+1.进入要管理的目录
+
+2.git init	初始化，即：让git帮助管理当前文件夹	
+
+3.git status 检测当前目录下文件的状态：
+	  红色：新增的文件/修改了原来的老文件
+	  绿色：git已经管理起来
+
+4.git add 文件名  管理特定文件	
+   git add .           管理所有文件
+
+5.git config --global user.name "用户名"
+   git config --global user.email "邮箱"
+
+6.git commit -m '描述信息'  	生成版本
+
+7.git log 查看存储的不同版本
